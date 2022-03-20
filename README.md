@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanthangopi
 - 👀 I’m interested in software design and development
-- 🌱 I’m currently learning design concepts 
+- 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on designing a software for a given problem
 
 <!---
